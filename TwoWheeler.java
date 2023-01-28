@@ -1,20 +1,20 @@
 package week1.day2;
 
 public class TwoWheeler {
-
-	public static void main(String[] args) {
-		int noOfWheels=2;
+	int noOfWheels=2;
 		short noOfMirrors=2;
 		long chassisNumber=546372819l;
 		boolean isPunctured=false;
 		String bikeName="RE Clasic 350";
 		double runningKM=60000;
-		System.out.println("No. of. Wheels : "+noOfWheels+
-				"\nNo. of. Mirrors : "+noOfMirrors+
-				"\nChassis Number : "+chassisNumber+
-				"\nIs the two wheeler punctured : "+isPunctured+
-				"\nBike Name : "+bikeName+
-				"\nRunning KM : "+runningKM);
+	public static void main(String[] args) {
+		TwoWheeler bike = new TwoWheeler():
+		System.out.println("No. of. Wheels : "+bike.noOfWheels+
+				"\nNo. of. Mirrors : "+bike.noOfMirrors+
+				"\nChassis Number : "+bike.chassisNumber+
+				"\nIs the two wheeler punctured : "+bike.isPunctured+
+				"\nBike Name : "+bike.bikeName+
+				"\nRunning KM : "+bike.runningKM);
 
 	}
 
